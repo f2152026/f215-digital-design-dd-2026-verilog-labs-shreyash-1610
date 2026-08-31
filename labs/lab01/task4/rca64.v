@@ -41,7 +41,9 @@ generate
             .sum(sum[i]),
             .cout(c[i+1])
         );
+
         
+
     end
 endgenerate
 
